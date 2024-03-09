@@ -860,7 +860,7 @@
     "@zilliz/milvus2-sdk-node": ">=2.2.11",
     "apify-client": "^2.7.1",
     "assemblyai": "^2.0.2",
-    "axios": "^0.26.0",
+    "axios": "^0.28.0",
     "cassandra-driver": "^4.7.2",
     "cheerio": "^1.0.0-rc.12",
     "chromadb": "^1.5.3",
